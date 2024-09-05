@@ -12,4 +12,5 @@ if __name__ == '__main__':
     hello_world()
     print(minn(10, 5))
     print(summ(10, 12))
+    print("EX222222222")
 
