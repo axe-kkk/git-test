@@ -13,4 +13,5 @@ if __name__ == '__main__':
     print(minn(10, 5))
     print(summ(10, 12))
     print("EX3333333333")
+    print("I like my ma :)")
 
